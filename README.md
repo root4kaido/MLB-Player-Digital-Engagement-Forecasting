@@ -1,5 +1,8 @@
 # MLB-Player-Digital-Engagement-Forecasting
 
+コンペ中の記録  
+https://www.notion.so/MLB-Player-Digital-Engagement-Forecasting-c7af79e607eb4e09910f6a46d4ac2d5a
+
 - 01…baseline
 - 02…baseline2
 - 03…lag特徴量
